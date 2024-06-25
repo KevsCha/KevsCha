@@ -11,6 +11,10 @@
       <li>JavaScript</li>
       <li>Php</li>
       <li>MySQL</li>
+      <li>C</li>
+      <li>C#</li>
+      <li>React js</li>
+      <li>Git</li>
     </ul>
   <a><img width="60" height="60"src="https://user-images.githubusercontent.com/107918168/178628919-8391fb4f-2b9f-4132-a694-de8ea6c43795.png"/></a> <a><img width="60" height="60" src="https://user-images.githubusercontent.com/107918168/178629558-57c23c36-1b79-4fe8-a5a3-c611f51e8222.png"/></a>  <a><img width="70" height="80" src="https://user-images.githubusercontent.com/107918168/178630146-a66fe33c-7844-4718-8703-2a7375c0d91b.png"/></a> <a><img width="60" height="60" src="https://user-images.githubusercontent.com/107918168/178630399-1fb458f5-1b59-484f-bec7-cecb305f3471.png"/></a><a><img width="70" height="70" src="https://user-images.githubusercontent.com/107918168/178629263-de66a5e4-c918-477d-988d-d52700c50785.png"/></a
   </div>
